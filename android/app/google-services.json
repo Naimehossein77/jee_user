@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "427822109189",
+    "firebase_url": "https://jee-food-app-default-rtdb.firebaseio.com",
+    "project_id": "jee-food-app",
+    "storage_bucket": "jee-food-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:427822109189:android:1718c09c7bdc44a3ee426c",
+        "android_client_info": {
+          "package_name": "com.example.jee_user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "427822109189-3jpm7d306p31dfg1he2p9ts35j8inpto.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoRE50jSf65p30u_0FMsNtayoHPXEZK0w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "427822109189-3jpm7d306p31dfg1he2p9ts35j8inpto.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
